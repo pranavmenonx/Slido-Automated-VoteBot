@@ -1,3 +1,4 @@
+# Pranav Menon, Dhruv Peechara, Rohith Gowrisankar, Syam Angalakuditi
 from selenium import webdriver
 import time
 import sys
